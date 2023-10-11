@@ -10,7 +10,7 @@ El problema debe de estar desarrollado en alguno de los siguientes frameworks: D
 
 #### 1.1.2. Restricciones de negocio
 
-La solucion del problema no peude implicar un costo adicional para la universidad
+La solución al problema debe estar orientada a minimizar al máximo los costos para la universidad.
 
 ### 1.2. alternativa de solucion
 
@@ -64,7 +64,7 @@ Esta se utilizará para tener un facil acceso a los mensajes de la aplicacion, d
 - Redis es eficaz en el almacenamiento y recuperación de datos mediante claves. Esto facilita la gestión y búsqueda de mensajes.
 - La simplicidad de Redis en términos de modelo de datos y operaciones hace que sea una elección atractiva para aplicaciones en tiempo real, lo que reduce la complejidad en el desarrollo.
 
-#### Libretranslate
+#### LibreTranslate
 
 - Es un proyecto open-source lo que reduce el costo e integracion del microservicio, ademas tiene una comunidad muy activa y el proyecto esta en constante actualización.
 
