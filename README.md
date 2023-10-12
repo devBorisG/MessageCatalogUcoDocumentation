@@ -74,7 +74,7 @@ Esta se utilizará para tener un facil acceso a los mensajes de la aplicacion, d
 
 ### 2.2. Vista implementacion
 
-### 2.3. vista de procesos
+### 2.3. Vista de procesos
 
 ### 2.4. Escenarios
 
