@@ -1,5 +1,9 @@
 # Message Catalog UCO Documentation
 
+## Definición
+
+El proyecto Catalogo de Mensajes es un proyecto de carácter transversal concebido con el propósito de almacenar y presentar mensajes procedentes de diversas aplicaciones que hagan uso de este sistema centralizado. Su función principal consiste en permitir la exposición de mensajes según diferentes criterios, tales como la consulta mediante un código de mensaje específico o la visualización de todos los mensajes asociados a una aplicación dada. 
+
 ## 1. Diseño de alto nivel
 
 ### 1.1. Restricciones de diseño
